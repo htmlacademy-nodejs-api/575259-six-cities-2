@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Александр Чусовитин](https://up.htmlacademy.ru/nodejs-api-individual/2/user/575259).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Вовк](https://htmlacademy.ru/profile/id2632017).
 
 ---
 
