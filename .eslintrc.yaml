@@ -11,3 +11,24 @@ plugins:
 extends:
   - "plugin:@typescript-eslint/recommended"
   - "htmlacademy/node"
+rules:
+  object-curly-spacing:
+    - error
+    - always
+  "@typescript-eslint/type-annotation-spacing":
+    - error
+    - before: false
+      after: true
+  semi:
+    - error
+    - always
+overrides:
+  - files:
+      - "*.ts"
+      - "*.tsx"
+    rules:
+      # для TS-файлов
+      "@typescript-eslint/semi":
+        - error
+        - always
+      semi: off
