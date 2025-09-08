@@ -27,9 +27,7 @@
       "ESNext"
     ]
   },
-  "include": [
-    "src/**/*.ts"
-  ],
+  "include": ["src/**/*.ts"],
   "exclude": [
     "node_modules",
     "**/*.test.ts"
